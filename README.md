@@ -37,7 +37,7 @@ The main objective of this project is to provide an automated system for detecti
 
 To see how to run this project locally, you can watch the following video:
 
-<video width="365" height="480" controls>
+<video width="560" height="315" controls>
   <source src="media/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
